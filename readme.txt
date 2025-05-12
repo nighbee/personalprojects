@@ -1,4 +1,4 @@
-# Personal Projects
+## Personal Projects
 
 📁 A curated collection of independent projects by **Almaz Toktassin** — built to explore and apply web development, automation, game programming, and data visualization outside of academic coursework.
 
@@ -17,7 +17,7 @@ This repository gathers small to medium-scale projects developed purely out of p
 - **Tools**: VS Code, Streamlit, Git
 
 ---
-
+```plaintext
 ## 📂 Projects Overview
 
 | Project                | Description                                                                |
@@ -31,7 +31,7 @@ This repository gathers small to medium-scale projects developed purely out of p
 | `telegram_bot`         | Telegram chatbot using Python and Telegram API                             |
 | `streamlit`            | Data visualization or interactive web app using Streamlit                  |
 | `py_snake`             | Classic Snake game implementation in Python                                |
-
+```
 ---
 
 ## 🧪 How to Run
