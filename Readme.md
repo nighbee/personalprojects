@@ -17,9 +17,9 @@ This repository gathers small to medium-scale projects developed purely out of p
 - **Tools**: VS Code, Streamlit, Git
 
 ---
-```plaintext
-#📂 Projects Overview
 
+#📂 Projects Overview
+```plaintext
 | Project                | Description                                                                |
 |------------------------|----------------------------------------------------------------------------|
 | `ecommerce`            | Simple e-commerce website template demonstrating layout and UI skills      |
@@ -31,7 +31,7 @@ This repository gathers small to medium-scale projects developed purely out of p
 | `telegram_bot`         | Telegram chatbot using Python and Telegram API                             |
 | `streamlit`            | Data visualization or interactive web app using Streamlit                  |
 | `py_snake`             | Classic Snake game implementation in Python                                |
-```
+```plaintext
 ---
 
 #🧪 How to Run
