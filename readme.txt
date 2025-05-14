@@ -1,16 +1,16 @@
-## Personal Projects
+# Personal Projects
 
 📁 A curated collection of independent projects by **Almaz Toktassin** — built to explore and apply web development, automation, game programming, and data visualization outside of academic coursework.
 
 ---
 
-## 🚀 About This Repository
+# 🚀 About This Repository
 
 This repository gathers small to medium-scale projects developed purely out of passion for coding and experimentation. These projects range from frontend layouts to backend bots and game development — showcasing my continuous learning and problem-solving approach.
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend & Automation**: Python, Streamlit, Telegram Bot API  
@@ -18,7 +18,7 @@ This repository gathers small to medium-scale projects developed purely out of p
 
 ---
 ```plaintext
-## 📂 Projects Overview
+#📂 Projects Overview
 
 | Project                | Description                                                                |
 |------------------------|----------------------------------------------------------------------------|
@@ -34,11 +34,11 @@ This repository gathers small to medium-scale projects developed purely out of p
 ```
 ---
 
-## 🧪 How to Run
+#🧪 How to Run
 
 > Each folder is a standalone project. Navigate into the one you’re interested in and follow the instructions below.
 
-### For Web Projects (HTML/CSS/JS)
+#For Web Projects (HTML/CSS/JS)
 
 ```bash
 cd project_folder
